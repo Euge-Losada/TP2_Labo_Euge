@@ -13,5 +13,6 @@ public class App
         MenuInputProcessor menuInputProcessor = new MenuInputProcessor();
         menuInputProcessor.renderMenu(banco);
 
+        
     }
 }
